@@ -1,0 +1,8 @@
+# Local server script
+server.py
+
+# Python cache
+__pycache__/
+
+# Temporary migration files
+tmp-onehopmigration-*/ 
